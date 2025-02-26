@@ -1,0 +1,239 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+html, body { min-height: 100% } 
+#button_489b3d8 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:76px; height:50px; background-color:#DD231D; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#button_489b3d8:hover { background-color:#000000;  }
+#button_489b3d8:hover span { color:#FFFFFF; }
+#button_7107b4be { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:149px; height:50px; background-color:#00FF84; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#button_7107b4be:hover { background-color:#DD231D;  }
+#button_7107b4be:hover span { color:#000000; }
+#button_76dfdc81 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:150px; height:50px; background-color:#DD231D; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#button_76dfdc81:hover { background-color:#00FF84;  }
+#button_76dfdc81:hover span { color:#000000; }
+#button_517c0d28 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:201px; height:50px; background-color:#DD231D; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#button_517c0d28:hover { background-color:#00FF84;  }
+#button_517c0d28:hover span { color:#000000; }
+#gallery_3bd38d17 div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 100%; height: auto; padding: 30px;  } 
+#gallery_3bd38d17 div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
+#button_7c6af539 { vertical-align: top; border-radius: 5px; position:relative; display: inline-block; width:505px; height:142px; background-color:#FFFFFF; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+#button_7c6af539:hover { background-color:#00FF84;  }
+#button_7c6af539:hover span { color:#000000; }
+body { background-color:#FFFFFF; background-image: url(../rc_images/background_1066x1200.png); background-position:top left; background-size:cover; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_2f04d44a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:94px; min-width:1200px; background-color:#3626A7; background: linear-gradient(to bottom, #1E1560, #3626A7);  }
+#container_2f04d44a_padding { margin: 10px; display: block;  }
+#container_4bd8ccd3 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:77px; background:none;  }
+#container_4bd8ccd3_padding { margin: 10px; display: block;  }
+#container_19690fcc { vertical-align: top; position:relative; display: inline-block; width:8%; min-height:70px; background:none;  }
+#container_19690fcc_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+#img_50443472 { position:absolute; left:16%; top:2%; width:68%; background:none; height:auto;  }
+#container_5937bf07 { vertical-align: top; position:relative; display: inline-block; width:27%; min-height:66px; background:none;  }
+#container_5937bf07_padding { margin: 10px; display: block;  }
+#text_650abe15 { position:absolute; left:4%; top:9%; width:251px; height:69px; background:none;  }
+.textstyle2 { font-size:36pt; font-family:STAR7; color:#DD231D;  }
+#container_53e9a3ab { vertical-align: top; position:relative; display: inline-block; width:17%; min-height:66px; background:none;  }
+#container_53e9a3ab_padding { margin: 10px; display: block;  }
+#container_1789df23 { vertical-align: top; position:relative; display: inline-block; width:15%; min-height:70px; background:none;  }
+#container_1789df23_padding { margin: 10px; display: block;  }
+.textstyle3 { text-align:center; }
+.textstyle4 { font-size:20pt; font-family:STAR7; color:#000000;  }
+#container_7a7cbcc2 { vertical-align: top; position:relative; display: inline-block; width:15%; min-height:70px; background:none;  }
+#container_7a7cbcc2_padding { margin: 10px; display: block;  }
+#container_3578321b { vertical-align: top; position:relative; display: inline-block; width:15%; min-height:70px; background:none;  }
+#container_3578321b_padding { margin: 10px; display: block;  }
+.textstyle5 { font-size:12pt; font-family:STAR7; color:#000000;  }
+#container_2bc926a0 { vertical-align: top; position:relative; display: inline-block; width:101%; min-height:1262px; background:none;  }
+#container_2bc926a0_padding { margin: 10px; display: block;  }
+#container_61c472e7 { vertical-align: top; position:relative; display: inline-block; float:left; width:38%; min-height:1250px; background-color:rgba(54, 38, 167, 0.498039);  }
+#container_61c472e7_padding { margin: 10px; display: block;  }
+#gallery_3bd38d17 { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:51%; min-height:1047px;  }
+#container_54d940e3 { vertical-align: top; position:relative; display: inline-block; width:49%; min-height:1030px; background:none;  }
+#container_54d940e3_padding { margin: 10px; display: block;  }
+#container_75846dd1 { vertical-align: top; position:relative; display: inline-block; margin:20px 25px 65px 0px;width:100%; min-height:137px; background:none;  }
+#container_75846dd1_padding { margin: 10px; display: block;  }
+#heading_d0123cd { vertical-align: bottom; position:relative; display: inline-block; width:170px; background:none; font-size:16pt; font-family:Designer; color:#FFFFFF; text-align:left;  }
+#heading_7d7328db { vertical-align: bottom; position:relative; display: inline-block; width:170px; background:none; font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-align:left;  }
+#container_3ae7ee26 { vertical-align: top; position:relative; display: inline-block; margin:0px 10px 0px 0px;width:100%; min-height:150px; background:none;  }
+#container_3ae7ee26_padding { margin: 10px; display: block;  }
+#heading_579f572f { vertical-align: bottom; position:relative; display: inline-block; width:170px; background:none; font-size:15pt; font-family:Designer; color:#FFFFFF; text-align:left;  }
+#heading_789175cb { vertical-align: bottom; position:relative; display: inline-block; margin:10px 0px 0px 0px;width:170px; background:none; font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-align:left;  }
+#container_38b2d1f2 { vertical-align: top; position:relative; display: inline-block; margin:65px 10px 65px 0px;width:100%; min-height:150px; background:none;  }
+#container_38b2d1f2_padding { margin: 10px; display: block;  }
+#heading_690011d2 { vertical-align: bottom; position:relative; display: inline-block; width:170px; background:none; font-size:16pt; font-family:Designer; color:#FFFFFF; text-align:left;  }
+#heading_701ee5a0 { vertical-align: bottom; position:relative; display: inline-block; margin:10px 0px 0px 0px;width:170px; background:none; font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-align:left;  }
+#container_5f18125e { vertical-align: top; position:relative; display: inline-block; margin:0px 10px 0px 0px;width:100%; min-height:150px; background:none;  }
+#container_5f18125e_padding { margin: 10px; display: block;  }
+#heading_4cdd36f7 { vertical-align: bottom; position:relative; display: inline-block; width:170px; background:none; font-size:16pt; font-family:Designer; color:#FFFFFF; text-align:left;  }
+#heading_76cb1e62 { vertical-align: bottom; position:relative; display: inline-block; margin:10px 0px 0px 0px;width:170px; background:none; font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-align:left;  }
+#container_798fb160 { vertical-align: top; position:relative; display: inline-block; margin:65px 10px 65px 0px;width:100%; min-height:150px; background:none;  }
+#container_798fb160_padding { margin: 10px; display: block;  }
+#heading_3a195145 { vertical-align: bottom; position:relative; display: inline-block; width:170px; background:none; font-size:16pt; font-family:Designer; color:#FFFFFF; text-align:left;  }
+#heading_2aa230e3 { vertical-align: bottom; position:relative; display: inline-block; margin:10px 0px 0px 0px;width:170px; background:none; font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-align:left;  }
+#container_70e60e76 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_70e60e76_padding { margin: 10px; display: block;  }
+#button_7c6af539_padding { margin: 20px 0px 0px 6px;display: block;  }
+.textstyle6 { font-size:24pt; font-family:Starbirl; color:#000000;  }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_94f4ad3 { vertical-align: top; position:relative; display: inline-block; width:1%; min-height:1235px; background:none;  }
+#container_94f4ad3_padding { margin: 10px; display: block;  }
+#container_6933d5ab { vertical-align: top; position:relative; display: inline-block; width:61%; min-height:1278px; background-color:rgba(54, 38, 167, 0.498039);  }
+#container_6933d5ab_padding { margin: 10px; display: block;  }
+#iframe_5c19d71c { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:1258px; background:none; border: 1px solid #A0A0A0;  }
+#container_213b06d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:22px; background:none;  }
+#container_213b06d_padding { margin: 10px; display: block;  }
+#container_2340760f { vertical-align: top; position:relative; display: inline-block; width:98%; min-height:1026px; background-color:rgba(54, 38, 167, 0.498039);  }
+#container_2340760f_padding { margin: 10px; display: block;  }
+#container_62785be2 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:85px; background:none;  }
+#container_62785be2_padding { margin: 10px; display: block;  }
+#text_23e3ff70 { position:absolute; left:32%; top:14%; width:516px; height:69px; background:none;  }
+#container_76da69f1 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:173px; background:none;  }
+#container_76da69f1_padding { margin: 10px; display: block;  }
+#container_161f468c { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_161f468c_padding { margin: 10px; display: block;  }
+#img_5ee56c48 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
+#container_bf243b8 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_bf243b8_padding { margin: 10px; display: block;  }
+#img_50510598 { vertical-align: bottom; position:relative; display: inline-block; width:91%; background:none; height:auto;  }
+#container_f0e27b5 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_f0e27b5_padding { margin: 10px; display: block;  }
+#img_668b5479 { vertical-align: bottom; position:relative; display: inline-block; width:92%; background:none; height:auto;  }
+#container_3b6b0cf3 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:114px; background:none;  }
+#container_3b6b0cf3_padding { margin: 10px; display: block;  }
+#img_1cf05bdd { vertical-align: bottom; position:relative; display: inline-block; width:82%; background:none; height:auto;  }
+#container_6dece81b { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_6dece81b_padding { margin: 10px; display: block;  }
+#heading_70fa7acc { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:center;  }
+#container_3d6e13fe { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_3d6e13fe_padding { margin: 10px; display: block;  }
+#heading_1e9d99ef { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:center;  }
+#container_7b473af2 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_7b473af2_padding { margin: 10px; display: block;  }
+#heading_3f4da9bc { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:left;  }
+#container_5a2ec878 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_5a2ec878_padding { margin: 10px; display: block;  }
+#heading_4bad1ee1 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:center;  }
+#container_281aed1a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:173px; background:none;  }
+#container_281aed1a_padding { margin: 10px; display: block;  }
+#container_5830792d { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_5830792d_padding { margin: 10px; display: block;  }
+#img_43f3c25d { vertical-align: bottom; position:relative; display: inline-block; width:89%; background:none; height:auto;  }
+#container_369cb9f6 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_369cb9f6_padding { margin: 10px; display: block;  }
+#img_16c6c8c1 { vertical-align: bottom; position:relative; display: inline-block; width:37%; background:none; height:auto;  }
+#container_6579f7fc { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_6579f7fc_padding { margin: 10px; display: block;  }
+#img_61d3a8c9 { vertical-align: bottom; position:relative; display: inline-block; width:97%; background:none; height:auto;  }
+#container_605f1637 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:114px; background:none;  }
+#container_605f1637_padding { margin: 10px; display: block;  }
+#img_2544faa2 { vertical-align: bottom; position:relative; display: inline-block; width:99%; background:none; height:auto;  }
+#container_189be270 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_189be270_padding { margin: 10px; display: block;  }
+#heading_1faa7373 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:center;  }
+#container_564f79e7 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_564f79e7_padding { margin: 10px; display: block;  }
+#heading_7a169a94 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:left;  }
+#container_7e547dcc { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_7e547dcc_padding { margin: 10px; display: block;  }
+#heading_9e1def3 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:left;  }
+#container_30422970 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_30422970_padding { margin: 10px; display: block;  }
+#heading_5af520cb { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:center;  }
+#container_5f67cf61 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:173px; background:none;  }
+#container_5f67cf61_padding { margin: 10px; display: block;  }
+#container_162c31e { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_162c31e_padding { margin: 10px; display: block;  }
+#img_39ec285a { vertical-align: bottom; position:relative; display: inline-block; width:83%; background:none; height:auto;  }
+#container_7643f74d { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_7643f74d_padding { margin: 10px; display: block;  }
+#img_7b6ae337 { vertical-align: bottom; position:relative; display: inline-block; width:84%; background:none; height:auto;  }
+#container_1ab19497 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:116px; background:none;  }
+#container_1ab19497_padding { margin: 10px; display: block;  }
+#img_390e2984 { vertical-align: bottom; position:relative; display: inline-block; width:44%; background:none; height:auto;  }
+#container_1f63f3da { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:114px; background:none;  }
+#container_1f63f3da_padding { margin: 10px; display: block;  }
+#img_34a6091f { vertical-align: bottom; position:relative; display: inline-block; width:101%; background:none; height:auto;  }
+#container_28216ae5 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_28216ae5_padding { margin: 10px; display: block;  }
+#heading_35713d11 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:left;  }
+#container_39d95503 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_39d95503_padding { margin: 10px; display: block;  }
+#heading_1f24343e { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:left;  }
+#container_53565b60 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_53565b60_padding { margin: 10px; display: block;  }
+#heading_7d4ca78d { vertical-align: bottom; position:relative; display: inline-block; width:266px; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:center;  }
+#container_1d99e9b8 { vertical-align: top; position:relative; display: inline-block; width:25%; min-height:53px; background:none;  }
+#container_1d99e9b8_padding { margin: 10px; display: block;  }
+#heading_4f3c2cce { vertical-align: bottom; position:relative; display: inline-block; width:266px; background:none; font-size:20pt; font-family:'Bridge OFFicer'; color:#FFFFFF; text-align:center;  }
+#container_11679a48 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:22px; background:none;  }
+#container_11679a48_padding { margin: 10px; display: block;  }
+@media only screen and (max-width: 1000px)
+{
+		#container_19690fcc { width:100%;  }
+		#container_5937bf07 { width:100%;  }
+		#container_53e9a3ab { width:100%;  }
+		#container_1789df23 { width:100%;  }
+		#container_7a7cbcc2 { width:100%;  }
+		#container_3578321b { width:100%;  }
+}
+@media only screen and (max-width: 800px)
+{
+		#container_161f468c { width:50%;  }
+		#container_bf243b8 { width:50%;  }
+		#container_f0e27b5 { width:50%;  }
+		#container_3b6b0cf3 { width:50%;  }
+		#container_6dece81b { width:50%;  }
+		#container_3d6e13fe { width:50%;  }
+		#container_7b473af2 { width:50%;  }
+		#container_5a2ec878 { width:50%;  }
+		#container_5830792d { width:50%;  }
+		#container_369cb9f6 { width:50%;  }
+		#container_6579f7fc { width:50%;  }
+		#container_605f1637 { width:50%;  }
+		#container_189be270 { width:50%;  }
+		#container_564f79e7 { width:50%;  }
+		#container_7e547dcc { width:50%;  }
+		#container_30422970 { width:50%;  }
+		#container_162c31e { width:50%;  }
+		#container_7643f74d { width:50%;  }
+		#container_1ab19497 { width:50%;  }
+		#container_1f63f3da { width:50%;  }
+		#container_28216ae5 { width:50%;  }
+		#container_39d95503 { width:50%;  }
+		#container_53565b60 { width:50%;  }
+		#container_1d99e9b8 { width:50%;  }
+}
+@media only screen and (max-width: 400px)
+{
+		#container_61c472e7 { width:100%;  }
+		#container_94f4ad3 { width:100%;  }
+		#container_6933d5ab { width:100%;  }
+		#container_161f468c { width:100%;  }
+		#container_bf243b8 { width:100%;  }
+		#container_f0e27b5 { width:100%;  }
+		#container_3b6b0cf3 { width:100%;  }
+		#container_6dece81b { width:100%;  }
+		#container_3d6e13fe { width:100%;  }
+		#container_7b473af2 { width:100%;  }
+		#container_5a2ec878 { width:100%;  }
+		#container_5830792d { width:100%;  }
+		#container_369cb9f6 { width:100%;  }
+		#container_6579f7fc { width:100%;  }
+		#container_605f1637 { width:100%;  }
+		#container_189be270 { width:100%;  }
+		#container_564f79e7 { width:100%;  }
+		#container_7e547dcc { width:100%;  }
+		#container_30422970 { width:100%;  }
+		#container_162c31e { width:100%;  }
+		#container_7643f74d { width:100%;  }
+		#container_1ab19497 { width:100%;  }
+		#container_1f63f3da { width:100%;  }
+		#container_28216ae5 { width:100%;  }
+		#container_39d95503 { width:100%;  }
+		#container_53565b60 { width:100%;  }
+		#container_1d99e9b8 { width:100%;  }
+}
